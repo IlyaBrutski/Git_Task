@@ -1,5 +1,7 @@
 1 Added secondFile.txt to git_1 +++
 2 Added secondFile.txt to git_1 +++
+1 Added secondFile.txt to git_1 ---
+2 Added secondFile.txt to git_1 ---
 3 Added secondFile.txt to git_1
 4 Added secondFile.txt to git_1
 5 Added secondFile.txt to git_1
