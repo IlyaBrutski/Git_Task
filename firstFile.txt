@@ -1,7 +1,7 @@
 1 Added firstFile.txt to git_1 ???
 2 Added firstFile.txt to git_1 ???
-3 Added firstFile.txt to git_1
-4 Added firstFile.txt to git_1
+3 Added firstFile.txt to git_1 ***
+4 Added firstFile.txt to git_1 ***
 5 Added firstFile.txt to git_1
 6 Added firstFile.txt to git_1
 7 Added firstFile.txt to git_1
