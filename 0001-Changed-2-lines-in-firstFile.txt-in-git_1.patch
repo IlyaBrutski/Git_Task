@@ -1,0 +1,24 @@
+From aa5be2bf44858c20869b9a50ddce7052d034496e Mon Sep 17 00:00:00 2001
+From: IlyaBrutski <101987935+IlyaBrutski@users.noreply.github.com>
+Date: Sun, 25 Jun 2023 20:16:04 +0300
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 159d5bc..8e76fe1 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1 Added firstFile.txt to git_1
+-2 Added firstFile.txt to git_1
++1 Added firstFile.txt to git_1 ???
++2 Added firstFile.txt to git_1 ???
+ 3 Added firstFile.txt to git_1
+ 4 Added firstFile.txt to git_1
+ 5 Added firstFile.txt to git_1
+-- 
+2.35.2.windows.1
+
